@@ -13,19 +13,13 @@
    
 }
 #c1{
-flex-basis: 250px;
-flex-shrink: 0;
-flex-grow: 2;
+flex: 2 0 250px;
 }
 
 #c2{
-flex-basis: 250px;
-flex-shrink: 1;
-flex-grow: 0;
+flex: 0 1 250px;
 }
 
 #c3{
-flex-basis: 250px;
-flex-shrink: 2;
-flex-grow: 1;
+flex: 1 2 250px;
 }
