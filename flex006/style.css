@@ -23,3 +23,15 @@ flex: 0 1 250px;
 #c3{
 flex: 1 2 250px;
 }
+
+#c4{
+flex: initial;
+}
+
+#c5{
+flex: auto;
+}
+
+#c6{
+flex: none;
+}
